@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mushroom_vs_plumber", "Mushroom_vs_plumber.vcxproj", "{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}.Debug|x64.ActiveCfg = Debug|x64
+		{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}.Debug|x64.Build.0 = Debug|x64
+		{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}.Debug|x86.Build.0 = Debug|Win32
+		{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}.Release|x64.ActiveCfg = Release|x64
+		{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}.Release|x64.Build.0 = Release|x64
+		{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}.Release|x86.ActiveCfg = Release|Win32
+		{F0BFEA3B-918A-45D5-AE70-D6B0F5EB849B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FFDFA64-2010-478F-A18A-85095FFD390C}
+	EndGlobalSection
+EndGlobal

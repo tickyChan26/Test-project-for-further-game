@@ -1,0 +1,19 @@
+﻿  Additional_Features.cpp
+F:\Mushroom_vs_plumber\Additional_Features.h(2,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Data_Units.cpp
+F:\Mushroom_vs_plumber\Data_Units.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: Aurora/Config.hpp: No such file or directory,
+  GameControl.cpp
+F:\Mushroom_vs_plumber\GameControl.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: Aurora/Config.hpp: No such file or directory,
+  GameLocation.cpp
+F:\Mushroom_vs_plumber\GameLocation.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: Aurora/Config.hpp: No such file or directory,
+  Game_UI.cpp
+F:\Mushroom_vs_plumber\Game_UI.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: Aurora/Config.hpp: No such file or directory,
+  Main.cpp
+F:\Mushroom_vs_plumber\Main.cpp(2,10): fatal  error C1083: Не удается открыть файл включение: Aurora/Config.hpp: No such file or directory,
+  Menu.cpp
+F:\Mushroom_vs_plumber\Menu.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: Aurora/Config.hpp: No such file or directory,
+  SaveData.cpp
+F:\Mushroom_vs_plumber\SaveData.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: Aurora/Config.hpp: No such file or directory,
+  Struct_Platforms.cpp
+F:\Mushroom_vs_plumber\Struct_Platforms.h(2,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Создание кода...
